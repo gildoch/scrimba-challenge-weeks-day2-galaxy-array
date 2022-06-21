@@ -1,0 +1,1 @@
+# scrimba-challenge-weeks-day2-galaxy-array
